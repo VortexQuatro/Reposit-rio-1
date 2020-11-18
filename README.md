@@ -1,2 +1,3 @@
 # Repositório #1
- MEu primeiro repositório do cruso de GIT / GITHUB
+ Meu primeiro repositório do cruso de GIT / GITHUB.
+ Repositório criado durante uma aula ao vivo.
